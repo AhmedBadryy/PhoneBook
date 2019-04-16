@@ -1,0 +1,132 @@
+
+
+body{
+    font-family: 'Lobster', cursive;
+}
+
+nav{
+    padding: 20px 50px;
+    height: 90px;
+    background-color: #563d7c;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+.form-control{
+    border-color: #1e90ff;
+}
+h1{
+    font-weight: 500;
+}
+.list-input, .search-input{
+    width: auto;
+    display: inline;
+}
+.search-input{
+   width: 350px;   
+}
+label{
+    font-size: 20px;
+    margin-bottom: .25rem;
+}
+.form-group{
+    margin-bottom: .5rem;
+}
+.contact-counter{
+    background-image: radial-gradient(#444343,#262525);
+    height: 150px;
+    padding-top: 10px;
+    color: #212529;
+    font-size: 80px;
+    border-radius: .30rem;
+}
+table thead .fa-minus-circle:hover{
+    color: #940000;
+}
+footer{
+    background-color: #563d7c;
+    color: #fff;
+    font-size: 20px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width:100%;
+}
+footer p{
+    margin-bottom: 5px;
+}
+.row{
+    margin-right: 0px;   
+}
+.box{
+    font-size: 20px;
+    font-weight: 600;
+    display: none;
+}
+.eyeSlash{
+    display:none !important;
+}
+.show{
+    display: inline-block !important;
+}
+.hide{
+    display:none !important;
+}
+.alert{
+    color: #c20f0f;
+}
+th{
+    font-size: 23px;
+}
+
+.i1,.i2,.i3,.eye,.allDelete{
+    transition: all .2s linear;
+}
+.i1{
+   font-size: 25px;     
+}
+.i1:hover{
+    Color: #940000;
+}
+.i2{
+    font-size: 25px;
+}
+.i2:hover{
+    color: #09c;
+}
+.i3{
+    font-size: 25px;
+}
+.i3:hover{
+    color: #0f0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
